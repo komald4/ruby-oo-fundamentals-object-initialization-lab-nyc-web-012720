@@ -9,3 +9,4 @@ class Dog
 end
 
 Fido = Dog.new #=> #<Dog:0x007f970a2edfd0>
+Pug = Dog.new
