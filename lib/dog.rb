@@ -8,4 +8,4 @@ class Dog
   end
 end
 
-snoopy = Dog.new #=> #<Dog:0x007f970a2edfd0>
+Fido = Dog.new #=> #<Dog:0x007f970a2edfd0>
