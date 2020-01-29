@@ -9,5 +9,4 @@ class Dog
 end
 
 snoopy = Dog.new #=> #<Dog:0x007f970a2edfd0>
-Fido.breed #=> nil
-Pug.breed = "Beagle"
+
